@@ -1,0 +1,22 @@
+{
+  "wheel_id": 961,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-119",
+  "project": "seo-services-brisbane-how-to-choose-73da09bf9e1918bbe9b8a09aa14",
+  "parent_t1_ref": "theseocompanybrisbane-160",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane how to choose",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-119/",
+  "tier": "T2",
+  "writeback_nonce": "9427feb86ae89579",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/seo-services-brisbane-cost-guide-b03d9f90fa5eae0c520ce932638f0c/",
+      "anchor": "this seo services brisbane cost guide guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
